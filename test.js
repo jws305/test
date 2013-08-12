@@ -1,3 +1,3 @@
-function Test2() {
+function Test() {
 	return 'This is a newer function';
 }

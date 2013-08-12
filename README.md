@@ -10,21 +10,25 @@ test
 
 1. One
 2. Two
-	1. Two-One
-	2. Two-Two
-	3. Two-Three
+    1. Two-One
+    2. Two-Two
+    3. Two-Three
 3. Three
+
+Break
 
 1. One
 2. Two
-	a. Two-One
-	b. Two-Two
-	c. Two-Three
+    a. Two-One
+    b. Two-Two
+    c. Two-Three
 3. Three
+
+Break
 
 1. One
 2. Two
-	*. Two-One
-	*. Two-Two
-	*. Two-Three
+    * Two-One
+    * Two-Two
+    * Two-Three
 3. Three

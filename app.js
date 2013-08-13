@@ -2,5 +2,5 @@ var http = require('http');
 http.createServer(function (req, res) {
     res.writeHead(200, {'Content-Type': 'text/plain'});
     res.end('Hello World\n');
-}).listen(80);
-console.log('Server running on port 80');
+}).listen(process.env.PORT || 8081);
+console.log('Server running on port ' + process.env.PORT || 8081);
